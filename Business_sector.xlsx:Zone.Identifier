@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://learn.lewagon.com/
+HostUrl=https://wagon-public-datasets.s3.eu-west-1.amazonaws.com/bi-data/Business_sector.xlsx
